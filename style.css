@@ -38,6 +38,7 @@ body{
     color:gray;
   }
 /* header part ends here */
+
 /* Starts First-scetion */
 .wrapper{
     display: flex;
@@ -73,9 +74,7 @@ body{
 .color{
     color:orange;
 }
-/* .div-link{
-    margin-top:20px;
-} */
+
 .link-btn{
     text-decoration: none;
     padding:10px 30px;
